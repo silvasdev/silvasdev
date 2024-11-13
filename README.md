@@ -16,4 +16,6 @@ Iniciando no mundo da programação em transição de profição, a tecnologia t
 
 Meus projetos!
 
+projeto do cardapio online enviando os pedidos direto para o whatssap
+html5, ccs3, javaScript
 https://cardapioonline-beta.vercel.app/
